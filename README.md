@@ -1,2 +1,4 @@
-# warsztat_html
-warsztat html ktory robimy na zajeciach
+# SitOnChair
+This website was created during the bootcamp.
+
+Technologies HTML5, CSS3, Javascript.
